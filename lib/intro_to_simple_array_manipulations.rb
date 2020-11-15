@@ -13,3 +13,7 @@ end
 def usng_flatten(array)
   arra.flatten
 end
+
+def using_delete(array, string)
+  
+end
